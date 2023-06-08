@@ -1,0 +1,9 @@
+{
+  "plugins": ["gtm"],
+  "pluginsConfig": {
+    "gtm": {
+      "token": "GTM-5CZP3LN",
+      "virtualPageViews": true
+    }
+  }
+}
